@@ -47,3 +47,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cat-typing.gif" width="250" alt="Chat qui code" />
+</p>
