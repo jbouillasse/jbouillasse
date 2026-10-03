@@ -1,7 +1,5 @@
 # 👋 Bonjour je suis Jean-Baptiste !
 
-[![Vues du profil](https://komarev.dev/ghp/jbouillasse?style=flat&color=blue)](https://github.com/TON-PSEUDO)
-
 💻 Développeur de jeux vidéo et web  
 🎓 Étudiant en informatique à l'IUT de Lens actuellement en double diplômation à l'UQAC au Québec
 
@@ -39,7 +37,7 @@
 
 ## 🌐 Réseau(x)
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jean-baptiste-hie)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-baptiste-hie/)
 
 ---
 
@@ -49,8 +47,3 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbouillasse/jbouillasse/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jbouillasse/jbouillasse/output/github-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/jbouillasse/jbouillasse/output/github-snake.svg">
-</picture>
